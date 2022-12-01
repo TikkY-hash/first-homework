@@ -1,0 +1,26 @@
+.item {
+    display: flex;
+    align-items: center;
+    border: 2px solid #f0f0f0;
+    width: 300px;
+    margin-bottom: 40px;
+    padding: 10px;
+}
+
+.status {
+    margin-right: 20px;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+}
+
+.name {
+    font-size: 20px;
+}
+
+.avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 30px;
+    margin-right: 20px;
+}
